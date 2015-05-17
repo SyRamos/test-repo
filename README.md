@@ -1,2 +1,2 @@
 # test-repo
-My first GitHug repo
+My first GitHub repo
